@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostRig v2.1", "PostRig v2.1\PostRig v2.1.csproj", "{AD7B72C3-7D8A-4481-8F22-474B1C3C7A6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD7B72C3-7D8A-4481-8F22-474B1C3C7A6C}.Debug|x64.ActiveCfg = Debug|x64
+		{AD7B72C3-7D8A-4481-8F22-474B1C3C7A6C}.Debug|x64.Build.0 = Debug|x64
+		{AD7B72C3-7D8A-4481-8F22-474B1C3C7A6C}.Release|x64.ActiveCfg = Debug|x64
+		{AD7B72C3-7D8A-4481-8F22-474B1C3C7A6C}.Release|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CE775D7-2A7F-4552-BFC7-0AE05ED3C9DE}
+	EndGlobalSection
+EndGlobal
